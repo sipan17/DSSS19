@@ -1,0 +1,9 @@
+numpy==1.16.4
+pandas==0.23.3
+matplotlib==3.1.1
+wordcloud==1.5
+nltk==3.4.4
+spacy==2.1.4
+unidecode
+scikit-learn==0.21.2
+tqdm==4.26
